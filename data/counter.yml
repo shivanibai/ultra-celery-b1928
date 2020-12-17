@@ -2,7 +2,7 @@ enable: true
 heading: Here are my numbers
 counter_item:
   - title: Happy Clients
-    number: '250'
+    number: 250dfd
   - title: Projects Completed
     number: '100'
   - title: Cups of coffee
